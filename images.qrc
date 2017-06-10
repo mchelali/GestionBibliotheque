@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>noCover.jpg</file>
+        <file>FMI_Logo.png</file>
+        <file>books-stack-of-three.png</file>
+        <file>author-sign.png</file>
+        <file>multiple-users-silhouette.png</file>
+        <file>pie-chart-stats.png</file>
+        <file>man-reading.png</file>
+        <file>door-exit.png</file>
+    </qresource>
+</RCC>
